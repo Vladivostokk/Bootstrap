@@ -1,0 +1,55 @@
+body{
+    background-color: #f5d6f2d3;;
+}
+.navbar {
+    background: #8a13a8;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #f4f4f4;
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.nav-link {
+    margin-right: 1em;
+}
+
+.nav-link:hover {
+    background: #f4f4f4;
+    color: #8a13a8;
+    border-radius: 3px;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-toggler {
+    background: #fff;
+}
+
+.portfolio {
+    position: relative;
+    background-color: #ffffff69;
+    width: 1200px;
+    margin: 4em auto;
+    border-radius: 10px;
+    box-shadow: #7a7878 5px 5px 25px;
+}
+
+.portfolio h1 {
+    color: #8a13a8;
+    margin: 2em;
+}
+
+.portfolio img {
+    height: 15rem;
+    width: 100%;
+    margin: 1em;
+    border-radius: 2px;
+}
